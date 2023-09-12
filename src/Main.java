@@ -1,8 +1,9 @@
+import java.util.Objects;
 import java.util.Scanner;  // Import the Scanner class
 
 public class Main {
 
-    final String password = "249";
+    final static String password = "249";
 
     public static void main(String[] args) {
 
@@ -42,18 +43,29 @@ public class Main {
 
                     while(attempts != 0){
 
-
                         System.out.println("Please enter your password:");
 
                         String inputPass = input.next();
 
                         attempts--;
 
+                        // If the input does not match the password
+                        if (Objects.equals(inputPass, password)){
+                            attempts = 0;
+                            System.out.println("Success!");
+                        }
+                        else {
+
+
+
+                        }
+
 
 
 
 
                     }
+
 
 
 
