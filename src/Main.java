@@ -169,25 +169,31 @@ public class Main {
                                         // Change author
                                         case 1:
                                             System.out.println("Please enter a new author:");
-                                            inventory[bookIndex].author = input.nextLine();
+                                            inventory[bookIndex].setAuthor(input.nextLine());
+                                            inventory[bookIndex].setAuthor(input.nextLine());
+                                            infoChangeChoice = 0;
                                             break;
 
                                         // Change title
                                         case 2:
                                             System.out.println("Please enter a new title:");
-                                            inventory[bookIndex].title = input.nextLine();
+                                            inventory[bookIndex].setTitle(input.nextLine());
+                                            inventory[bookIndex].setTitle(input.nextLine());
+                                            infoChangeChoice = 0;
                                             break;
 
                                         // Change ISBN
                                         case 3:
                                             System.out.println("Please enter a new ISBN number:");
-                                            inventory[bookIndex].ISBN = input.nextLong();
+                                            inventory[bookIndex].setISBN(input.nextLong());
+                                            infoChangeChoice = 0;
                                             break;
 
                                         // Change price
                                         case 4:
                                             System.out.println("Please enter a new price:");
-                                            inventory[bookIndex].price = input.nextDouble();
+                                            inventory[bookIndex].setPrice(input.nextInt());
+                                            infoChangeChoice = 0;
                                             break;
 
                                         // Quit the menu
@@ -195,6 +201,7 @@ public class Main {
                                             break;
 
                                     }
+
 
                                 }
 
@@ -209,6 +216,10 @@ public class Main {
 
                     }
 
+                case 3:
+
+                    System.out.println("Please enter an author name:");
+                    String authorName = input.nextLine();
 
 
             }
