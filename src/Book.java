@@ -23,6 +23,16 @@ public class Book {
 
     }
 
+    public Book() {
+        // Default placeholder book
+        this.title = "Elias Grace";
+        this.author = "Margaret Atwood";
+        this.ISBN = 4565;
+        this.price = 23;
+        bookCounter++;
+
+    }
+
     public String getTitle() {
         return title;
     }
@@ -67,7 +77,7 @@ public class Book {
     }
 
     public String toString(){
-        return "Title: " + title + "\nAuthor: " + author + "\nPrice: " + price + "\nISBN: " + ISBN;
+        return "\nAuthor: " + author + "\nTitle: "+ title + "\nISBN: " + ISBN +"\nPrice: $" + price;
     }
 
 
