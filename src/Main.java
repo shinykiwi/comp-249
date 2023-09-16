@@ -220,6 +220,16 @@ public class Main {
 
                     System.out.println("Please enter an author name:");
                     String authorName = input.nextLine();
+                    authorName = input.nextLine();
+                    findBooksByAuthor(authorName, inventory);
+                    break;
+
+
+                case 4:
+                    System.out.println("Please enter a price:");
+                    double inputPrice = input.nextDouble();
+                    findBooksCheaperThan(inputPrice, inventory);
+                    break;
 
 
             }
@@ -228,11 +238,7 @@ public class Main {
 
         }
 
-
-
-
-
-
+        System.out.println("Goodbye!");
     }
 
     private static int getAttempts(Scanner input, int attempts) {
@@ -254,5 +260,34 @@ public class Main {
         }
         return attempts;
     }
+
+    private static void findBooksByAuthor(String author, Book[] books){
+
+        for (Book b: books
+             ) {
+            if (b != null){
+                if (Objects.equals(b.author, author)){
+                    System.out.println(b);
+                }
+            }
+
+
+        }
+    }
+
+    private static void findBooksCheaperThan(double price, Book[] books){
+
+        for(Book b: books
+        ){
+            if(b != null){
+                if (b.price < price){
+                    System.out.println(b);
+                }
+            }
+
+        }
+    }
 }
+
+
 
