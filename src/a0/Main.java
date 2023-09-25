@@ -1,3 +1,5 @@
+package a0;
+
 import java.util.Objects;
 import java.util.Scanner;  // Import the Scanner class
 
@@ -148,7 +150,7 @@ public class Main {
                                 int infoChangeChoice = 0;
                                 while(infoChangeChoice != 5){
                                     // Displaying current book info
-                                    System.out.println("Book #"+ bookIndex + inventory[bookIndex]);
+                                    System.out.println("a0.Book #"+ bookIndex + inventory[bookIndex]);
 
                                     // Forcing the user to enter a number between 1 and 5
                                     while(infoChangeChoice < 1 || infoChangeChoice > 5){
