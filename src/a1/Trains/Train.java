@@ -1,10 +1,12 @@
-package a1;
+package a1.Trains;
 
-public class Train extends WheeledTransportation{
+import a1.Transpo.WheeledTransportation;
+
+public class Train extends WheeledTransportation {
     protected int numberOfVehicles;
     protected String startingStation;
     protected String destinationStation;
-    protected static int counter = 10000;
+    private static int counter = 10000;
 
 
     public Train(){
@@ -22,6 +24,16 @@ public class Train extends WheeledTransportation{
         super.serialNumber = counter;
         counter++;
     }
+
+    public Train(Train t1){
+        numberOfVehicles = t1.numberOfVehicles;
+        startingStation = t1.startingStation;
+        destinationStation = t1.destinationStation;
+        super.serialNumber = counter;
+        counter++;
+    }
+
+
 }
 
 
