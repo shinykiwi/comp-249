@@ -13,7 +13,8 @@ public class WorldWarIIAirplane extends Aircraft {
         counter++;
     }
 
-    public WorldWarIIAirplane(boolean engine){
+    public WorldWarIIAirplane(boolean engine, double price, double elevation){
+        super(price, elevation);
         twinEngine = engine;
         this.serialNumber = counter;
         counter++;
@@ -25,4 +26,22 @@ public class WorldWarIIAirplane extends Aircraft {
         counter++;
     }
 
+    protected int getNextSerialNumber(){
+        return counter++;
+    }
+
+    public String toString(){
+        if(twinEngine){
+            return super.toString() + "It has a twin engine.";
+        }
+        return super.toString() + "It does not have a twin engine.";
+    }
+
+    public boolean isTwinEngine() {
+        return twinEngine;
+    }
+
+    public void setTwinEngine(boolean twinEngine) {
+        this.twinEngine = twinEngine;
+    }
 }

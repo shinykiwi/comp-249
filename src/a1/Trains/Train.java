@@ -17,7 +17,8 @@ public class Train extends WheeledTransportation {
         counter++;
     }
 
-    public Train(int numVehicles, String start, String dest){
+    public Train(int numVehicles, String start, String dest, int wheels, double speed){
+        super(wheels, speed);
         numberOfVehicles = numVehicles;
         startingStation = start;
         destinationStation = dest;
@@ -33,7 +34,38 @@ public class Train extends WheeledTransportation {
         counter++;
     }
 
+    protected int getNextSerialNumber(){
+        return counter++;
+    }
 
+    public String toString(){
+        return super.toString() + "It has " + numberOfVehicles + " vehicles and its starting and destination stations are "+ startingStation + " and "+destinationStation+".";
+
+    }
+
+    public int getNumberOfVehicles() {
+        return numberOfVehicles;
+    }
+
+    public void setNumberOfVehicles(int numberOfVehicles) {
+        this.numberOfVehicles = numberOfVehicles;
+    }
+
+    public String getDestinationStation() {
+        return destinationStation;
+    }
+
+    public void setDestinationStation(String destinationStation) {
+        this.destinationStation = destinationStation;
+    }
+
+    public String getStartingStation() {
+        return startingStation;
+    }
+
+    public void setStartingStation(String startingStation) {
+        this.startingStation = startingStation;
+    }
 }
 
 

@@ -28,5 +28,35 @@ public class Aircraft {
         counter++;
     }
 
+    protected int getNextSerialNumber(){
+        return counter++;
+    }
 
+    public String toString(){
+        return "This " + getClass().getSimpleName() + " of serial number #"+ serialNumber + " has a max elevation of " + maxElevation + " ft, and is priced at $"+price+".";
+    }
+
+    public double getPrice() {
+        return price;
+    }
+
+    public void setPrice(double price) {
+        this.price = price;
+    }
+
+    public double getMaxElevation() {
+        return maxElevation;
+    }
+
+    public void setMaxElevation(double maxElevation) {
+        this.maxElevation = maxElevation;
+    }
+
+    public long getSerialNumber() {
+        return serialNumber;
+    }
+
+    public void setSerialNumber(long serialNumber) {
+        this.serialNumber = serialNumber;
+    }
 }

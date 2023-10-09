@@ -28,5 +28,35 @@ public class Ferry {
         counter++;
     }
 
+    protected int getNextSerialNumber(){
+        return counter++;
+    }
 
+    public String toString(){
+        return "This " + getClass().getSimpleName() + " of serial number "+ serialNumber + " - has a max speed of " + maxSpeed + " mph/hr and a max load of "+maxLoad + " kgs.";
+    }
+
+    public double getMaxSpeed() {
+        return maxSpeed;
+    }
+
+    public void setMaxSpeed(double maxSpeed) {
+        this.maxSpeed = maxSpeed;
+    }
+
+    public double getMaxLoad() {
+        return maxLoad;
+    }
+
+    public void setMaxLoad(double maxLoad) {
+        this.maxLoad = maxLoad;
+    }
+
+    public long getSerialNumber() {
+        return serialNumber;
+    }
+
+    public void setSerialNumber(long serialNumber) {
+        this.serialNumber = serialNumber;
+    }
 }

@@ -14,7 +14,8 @@ public class Monowheel extends WheeledTransportation {
 
     }
 
-    public Monowheel(double weight){
+    public Monowheel(double weight, int wheels, double speed){
+        super(wheels, speed);
         maxWeight = weight;
         this.serialNumber = counter;
         counter++;
@@ -26,5 +27,19 @@ public class Monowheel extends WheeledTransportation {
         counter++;
     }
 
+    protected int getNextSerialNumber(){
+        return counter++;
+    }
 
+    public String toString(){
+        return super.toString() + "Its max weight is " + maxWeight+" kgs.";
+    }
+
+    public double getMaxWeight() {
+        return maxWeight;
+    }
+
+    public void setMaxWeight(double maxWeight) {
+        this.maxWeight = maxWeight;
+    }
 }

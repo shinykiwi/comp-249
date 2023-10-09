@@ -16,11 +16,27 @@ public class Metro extends Train {
 
     }
 
-    public Metro(int stops){
+    public Metro(int stops, int numVehicles, String start, String dest, int wheels, double speed ){
+        super(numVehicles, start, dest, wheels, speed);
         totalNumOfStops = stops;
         this.serialNumber = counter;
         counter++;
 
     }
 
+    protected int getNextSerialNumber(){
+        return counter++;
+    }
+
+    public String toString(){
+        return super.toString() + "It has " + totalNumOfStops + " total stops.";
+    }
+
+    public int getTotalNumOfStops() {
+        return totalNumOfStops;
+    }
+
+    public void setTotalNumOfStops(int totalNumOfStops) {
+        this.totalNumOfStops = totalNumOfStops;
+    }
 }

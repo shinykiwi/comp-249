@@ -13,7 +13,7 @@ public class WheeledTransportation {
         counter++;
     }
 
-    public WheeledTransportation(int wheels, double speed, long serialNumber){
+    public WheeledTransportation(int wheels, double speed){
         numberOfWheels = wheels;
         maxSpeed = speed;
         this.serialNumber = counter;
@@ -28,5 +28,37 @@ public class WheeledTransportation {
 
     }
 
+    protected int getNextSerialNumber(){
+        return counter++;
+    }
+
+    public String toString(){
+        return "This " + getClass().getSimpleName() + " serial number " + serialNumber + " - has " + numberOfWheels+" wheels, has a maximum speed of " + maxSpeed+" km/hr.";
+
+    }
+
+    public double getMaxSpeed() {
+        return maxSpeed;
+    }
+
+    public void setMaxSpeed(double maxSpeed) {
+        this.maxSpeed = maxSpeed;
+    }
+
+    public int getNumberOfWheels() {
+        return numberOfWheels;
+    }
+
+    public void setNumberOfWheels(int numberOfWheels) {
+        this.numberOfWheels = numberOfWheels;
+    }
+
+    public long getSerialNumber() {
+        return serialNumber;
+    }
+
+    public void setSerialNumber(long serialNumber) {
+        this.serialNumber = serialNumber;
+    }
 }
 
