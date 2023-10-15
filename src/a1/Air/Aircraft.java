@@ -59,4 +59,16 @@ public class Aircraft {
     public void setSerialNumber(long serialNumber) {
         this.serialNumber = serialNumber;
     }
+
+    public boolean equals(Object o){
+        if ((o != null) && (getClass() == o.getClass())){
+            Aircraft a = (Aircraft) o;
+            if(a.price == price && a.maxElevation == maxElevation){
+                return true;
+            }
+
+        }
+        return false;
+    }
+
 }

@@ -60,5 +60,16 @@ public class WheeledTransportation {
     public void setSerialNumber(long serialNumber) {
         this.serialNumber = serialNumber;
     }
+
+    public boolean equals(Object o){
+        if ((o != null) && (getClass() == o.getClass())){
+            WheeledTransportation w = (WheeledTransportation) o;
+            if(w.numberOfWheels == numberOfWheels && w.maxSpeed == maxSpeed){
+                return true;
+            }
+
+        }
+        return false;
+    }
 }
 

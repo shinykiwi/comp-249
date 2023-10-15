@@ -59,4 +59,15 @@ public class Ferry {
     public void setSerialNumber(long serialNumber) {
         this.serialNumber = serialNumber;
     }
+
+    public boolean equals(Object o){
+        if ((o != null) && (getClass() == o.getClass())){
+            Ferry f = (Ferry) o;
+            if(f.maxLoad == maxLoad && f.maxSpeed == maxSpeed){
+                return true;
+            }
+
+        }
+        return false;
+    }
 }

@@ -39,4 +39,17 @@ public class Metro extends Train {
     public void setTotalNumOfStops(int totalNumOfStops) {
         this.totalNumOfStops = totalNumOfStops;
     }
+
+    public boolean equals(Object o){
+        if ((o != null) && (getClass() == o.getClass())){
+            Metro m = (Metro) o;
+            if(m.numberOfWheels == numberOfWheels && m.maxSpeed == maxSpeed && m.numberOfVehicles == numberOfVehicles && m.totalNumOfStops == totalNumOfStops && m.destinationStation == destinationStation && m.startingStation == startingStation){
+                return true;
+            }
+
+        }
+        return false;
+    }
+
+
 }
