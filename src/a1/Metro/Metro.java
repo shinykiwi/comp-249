@@ -43,10 +43,9 @@ public class Metro extends Train {
     public boolean equals(Object o){
         if ((o != null) && (getClass() == o.getClass())){
             Metro m = (Metro) o;
-            if(m.numberOfWheels == numberOfWheels && m.maxSpeed == maxSpeed && m.numberOfVehicles == numberOfVehicles && m.totalNumOfStops == totalNumOfStops && m.destinationStation == destinationStation && m.startingStation == startingStation){
+            if(super.equals(m) && m.totalNumOfStops == totalNumOfStops){
                 return true;
             }
-
         }
         return false;
     }

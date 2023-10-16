@@ -48,10 +48,9 @@ public class WorldWarIIAirplane extends Aircraft {
     public boolean equals(Object o){
         if ((o != null) && (getClass() == o.getClass())){
             WorldWarIIAirplane ww = (WorldWarIIAirplane) o;
-            if(ww.price == price && ww.maxElevation == maxElevation && twinEngine == ww.twinEngine){
+            if(super.equals(ww) && twinEngine == ww.twinEngine){
                 return true;
             }
-
         }
         return false;
     }

@@ -66,6 +66,16 @@ public class Train extends WheeledTransportation {
     public void setStartingStation(String startingStation) {
         this.startingStation = startingStation;
     }
+
+    public boolean equals(Object o){
+        if ((o != null) && (getClass() == o.getClass())) {
+            Train t = (Train) o;
+            if (super.equals(t) && t.startingStation == startingStation & t.destinationStation == destinationStation && t.numberOfVehicles == numberOfVehicles) {
+                return true;
+            }
+        }
+        return false;
+    }
 }
 
 

@@ -42,4 +42,14 @@ public class Monowheel extends WheeledTransportation {
     public void setMaxWeight(double maxWeight) {
         this.maxWeight = maxWeight;
     }
+
+    public boolean equals(Object o){
+        if ((o != null) && (getClass() == o.getClass())){
+            Monowheel m = (Monowheel) o;
+            if(super.equals(m) && m.maxWeight == maxWeight){
+                return true;
+            }
+        }
+        return false;
+    }
 }

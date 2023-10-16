@@ -42,4 +42,14 @@ public class Tram extends Metro {
     public void setYearOfCreation(int yearOfCreation) {
         this.yearOfCreation = yearOfCreation;
     }
+
+    public boolean equals(Object o){
+        if ((o != null) && (getClass() == o.getClass())){
+            Tram t = (Tram) o;
+            if(super.equals(t) && t.yearOfCreation == yearOfCreation){
+                return true;
+            }
+        }
+        return false;
+    }
 }
