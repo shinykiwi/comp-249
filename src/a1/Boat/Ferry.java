@@ -1,3 +1,10 @@
+// -----------------------------------------------------
+// Assignment 1
+// Part: 1
+// Written by: Kira Fountain 40192824
+// --
+
+
 package a1.Boat;
 
 public class Ferry {
