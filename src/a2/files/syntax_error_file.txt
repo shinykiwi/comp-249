@@ -1,0 +1,1107 @@
+[31msyntax error in filebooks1995.csv.txt
+===========================
+Error: missing isbn
+Record: ,Gary Giblin,19.95,188766467X,MTV,1905
+
+[0m
+[31msyntax error in filebooks2000.csv.txt
+===========================
+Error: invalid genre
+Record: ,Peter Dendle,30.95,9780786408597,,2000
+
+[0m
+[31msyntax error in filebooks2001.csv.txt
+===========================
+Error: invalid genre
+Record: ,Jim Harmon,35.95,9780786408504,MBR,2001
+
+Error: missing isbn
+Record: ,Barbara Victor,4.95,006019930X,MRB,2001
+
+[0m
+[31msyntax error in filebooks2002.csv.txt
+===========================
+Error: invalid genre
+Record: ,Edward Amos,35.95,9780786412709,MBR,2002
+
+Error: missing isbn
+Record: ,Kim R. Holston,29.95,8.78079E+12,MTV,2002
+
+[0m
+[31msyntax error in filebooks2003.csv.txt
+===========================
+Error: invalid genre
+Record: ,John Louis DiGaetani,39.95,9780786414772,BRM,2003
+
+[0m
+[31msyntax error in filebooks2004.csv.txt
+===========================
+Error: invalid genre
+Record: ,John T. Soister,49.5,9780786417452,CTV,2004
+
+Error: invalid genre
+Record: ,Stephen A. Kallis Jr.,26.96,9780786421763,BRM,2004
+
+[0m
+[31msyntax error in filebooks2005.csv.txt
+===========================
+Error: missing isbn
+Record: ,John Jackson Miller & Maggie Thompson & Peter Bickford & Brent Frankenhoff,24.95,087349993X,CCB,2005
+
+Error: invalid genre
+Record: ,Michael Mallory,18.95,0883631083,CBB,2005
+
+Error: missing isbn
+Record: ,John A. Dinan,9.95,159393002X,CCB,2005
+
+Error: missing isbn
+Record: ,Kyle Husfloen,16.95,,HCB,2005
+
+Error: missing isbn
+Record: ,Frank Farmer Loomis IV,17.95,,HCB,2005
+
+Error: missing isbn
+Record: ,Leyla Maniera,19.95,082300645X,HCB,2005
+
+Error: missing isbn
+Record: ,Clark Kidder,2.95,038079909X,HCB,2005
+
+Error: invalid genre
+Record: ,Charles Dee Sharp,14.95,1888054700,HBC,2005
+
+Error: missing isbn
+Record: ,Carl Magnus Palm,4.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Ean Wood,7.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Hunter Davies,-4.95,071198526X,MRB,2005
+
+Error: missing isbn
+Record: ,Larry Kane,5.95,014303426X,MRB,2005
+
+Error: missing isbn
+Record: ,Roag Best & Pete Best & Rory Best,12.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Alan Clayson & Spencer Leigh,14.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Rob Jovanovic,12.95,,MRB,2005
+
+Error: invalid genre
+Record: ,Wesley Hyatt,5.95,,BBM,2005
+
+Error: missing isbn
+Record: ,Joel Whitburn,56.95,,MRB,2005
+
+Error: invalid genre
+Record: ,Chris Welch & Geoff Nicholls,12.95,0879306580,MMR,2005
+
+Error: missing isbn
+Record: ,Tony Fletcher,4.95,184449506X,MRB,2005
+
+Error: missing isbn
+Record: ,Marcus Gray,14.95,063408240X,MRB,2005
+
+Error: missing isbn
+Record: ,Clinton Heylin,12.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Ralph Heibutzki,12.95,087930748X,MRB,2005
+
+Error: missing isbn
+Record: ,Frankie Gaye & Fred E. Basten,14.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Mark Allen Baker,7.95,087341490X,MRB,2005
+
+Error: missing isbn
+Record: ,,12.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Mick Rock,19.95,,MRB,2005
+
+Error: invalid genre
+Record: ,David S. Rubin,3.95,3791316273,RBM,2005
+
+Error: missing isbn
+Record: ,Tom Shannon,9.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Bob Gruen,19.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Tim McGraw & Martin Huxley,1.99,074346706X,MRB,2005
+
+Error: missing isbn
+Record: ,Mick St Michael,1,,MRB,2005
+
+Error: missing isbn
+Record: ,Charles Delaunay,24.95,095062246X,MRB,2005
+
+Error: missing isbn
+Record: ,Jim Dawson,12.95,087930829X,MRB,2005
+
+Error: missing isbn
+Record: ,Steve Gullick,3.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Spencer Drate & Judith Salavetz,19.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Billy Poore,13.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Jools Holland & Dora Loewenstein,14.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Brian Sweet,4.95,184449425X,MRB,2005
+
+Error: missing isbn
+Record: ,Al Raymond,12.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Richie Unterberger,12.95,087930703X,MRB,2005
+
+Error: missing isbn
+Record: ,Alan Clayson,16.95,,MRB,2005
+
+Error: missing isbn
+Record: ,Shelly Frome,35.95,9.78179E+12,MTV,2005
+
+Error: missing isbn
+Record: ,Joel Whitburn,10,089820111X,MTV,2005
+
+Error: missing isbn
+Record: ,John Baxter,4.95,078670506X,MTV,2005
+
+Error: missing isbn
+Record: ,Ed McMahon,4.95,,MTV,2005
+
+Error: too many fields
+Record: ,,,44.95,9780786443192,MTV,2005
+
+Error: missing isbn
+Record: ,,5.95,,MTV,2005
+
+Error: missing isbn
+Record: ,Michael H. Price & George E. Turner,19.95,,MTV,2005
+
+Error: missing isbn
+Record: ,Herb Bridges,5.95,067168387X,MTV,2005
+
+Error: missing isbn
+Record: ,Gregory William Mank,19.95,,MTV,2005
+
+Error: missing isbn
+Record: ,,19.95,188766419X,MTV,2005
+
+Error: missing isbn
+Record: ,Ray Morton,16.95,,MTV,2005
+
+Error: missing isbn
+Record: ,,7.95,,MTV,2005
+
+Error: missing isbn
+Record: ,,7.95,,MTV,2005
+
+Error: missing isbn
+Record: ,,7.95,,MTV,2005
+
+Error: missing isbn
+Record: ,,7.95,,MTV,2005
+
+Error: missing isbn
+Record: ,,4.95,,MTV,2005
+
+Error: missing isbn
+Record: ,,4.95,,MTV,2005
+
+Error: missing isbn
+Record: ,David M. Inman,109.95,,MTV,2005
+
+Error: missing isbn
+Record: ,David M. Inman,264.95,,MTV,2005
+
+Error: missing isbn
+Record: ,Richard Roeper,3.95,078688830X,MTV,2005
+
+Error: missing isbn
+Record: ,Sandra Grabman,14.95,,MTV,2005
+
+Error: missing isbn
+Record: ,Jacques Boyreau,14.95,,MTV,2005
+
+Error: missing isbn
+Record: ,Antoinette Girgenti Lane,19.95,,MTV,2005
+
+Error: missing isbn
+Record: ,John Loring,7.95,,NEB,2005
+
+Error: missing isbn
+Record: ,Avi R. Baer & Alexander Neumark,12.95,076240700X,NEB,2005
+
+Error: missing isbn
+Record: ,W.C. Madden,39.95,078640597X,SSM,2005
+
+Error: missing isbn
+Record: ,Rich Marazzi & Len Fiorito,49.95,078641281X,SSM,2005
+
+Error: missing isbn
+Record: ,Andrew Paul Mele,34.95,078641913X,SSM,2005
+
+Error: missing isbn
+Record: ,Albert Theodore Powers,24.95,078641426X,SSM,2005
+
+Error: missing isbn
+Record: ,Jorge S. Figueredo,67.95,078641250X,SSM,2005
+
+Error: missing isbn
+Record: ,Nick C. Wilson,29.95,078642012X,SSM,2005
+
+Error: missing isbn
+Record: ,Marshall D. Wright,49.95,078642267X,SSM,2005
+
+Error: missing isbn
+Record: ,Robert W. Cohen,26.95,078641846X,SSM,2005
+
+Error: missing isbn
+Record: ,Alan H. Levy,29.95,078641961X,SSM,2005
+
+Error: missing isbn
+Record: ,William A. Cook,27.95,078641216X,SSM,2005
+
+Error: invalid genre
+Record: ,G. Richard McKelvey,24.95,078641944X,SSN,2005
+
+Error: invalid genre
+Record: ,Michael S. Jones,39.95,0786410868,SSN,2005
+
+Error: invalid genre
+Record: ,C.H. Claudy,30.95,9780786420209,SSN,2005
+
+Error: invalid genre
+Record: ,Clifton Blue Parker,24.95,0786414006,SSN,2005
+
+Error: missing isbn
+Record: ,Jerry Heasley,9.95,,TPA,2005
+
+Error: missing isbn
+Record: ,David Newhardt,4.95,076031389X,TPA,2005
+
+Error: missing isbn
+Record: ,Tony Swan,14.95,188805462X,TPA,2005
+
+[0m
+[31msyntax error in filebooks2006.csv.txt
+===========================
+Error: missing isbn
+Record: ,Forrest J. Ackerman & Brad Linaweaver,29.95,188805493X,CCB,2006
+
+Error: missing isbn
+Record: ,Roger C. Paulson,17.95,159393047X,MRB,2006
+
+Error: missing isbn
+Record: ,Wil Haygood,5.95,037540354X,MRB,2006
+
+Error: missing isbn
+Record: ,Debbie Geller,4.95,031228862X,MRB,2006
+
+Error: missing isbn
+Record: ,,3.95,,MRB,2006
+
+Error: missing isbn
+Record: ,,3.95,,MRB,2006
+
+Error: missing isbn
+Record: ,Tony Bramwell,5.95,031233043X,MRB,2006
+
+Error: missing isbn
+Record: ,Ross Halfin,19.95,190339984X,MRB,2006
+
+Error: missing isbn
+Record: ,Alan Clayson,5.95,184240220X,MRB,2006
+
+Error: invalid genre
+Record: ,Lester Bangs,4.95,0393316254,RBM,2006
+
+Error: missing isbn
+Record: ,Steven Lee Beeber,16.95,155652613X,MRB,26
+
+Error: missing isbn
+Record: ,T. Mike Childs,5.95,031232944X,MRB,2006
+
+Error: missing isbn
+Record: ,Frank Stefanko,9.95,082308387X,MRB,2006
+
+Error: missing isbn
+Record: ,Ellis Amburn,5.95,006018566X,MTV,2006
+
+Error: missing isbn
+Record: ,Wes D. Gerhing,34.95,078642589X,MTV,2006
+
+Error: missing isbn
+Record: ,,19.95,188766453X,MTV,2006
+
+Error: missing isbn
+Record: ,,7.95,,MTV,2006
+
+Error: missing isbn
+Record: ,Deana Martin,5.95,140005043X,MTV,2006
+
+Error: missing isbn
+Record: ,Neil Fulwood,16.95,071348733X,MTV,2006
+
+Error: missing isbn
+Record: ,Len D. Martin,34.95,078642740X,MTV,2006
+
+Error: missing isbn
+Record: ,Allan T. Duffin & Paul Matheis,-24.95,159393033X,MTV,2206
+
+Error: missing isbn
+Record: ,Andrew Montgomery,14.95,159223061X,TPA,2006
+
+[0m
+[31msyntax error in filebooks2007.csv.txt
+===========================
+Error: missing isbn
+Record: ,Dean Young & Melena Ryzik,24.95,140160322X,CCB,2007
+
+Error: invalid genre
+Record: ,Antonio Prohias,15.95,0823050211,BCC,2007
+
+Error: missing isbn
+Record: ,Ian Whitcomb,13.95,087910063X,MRB,2007
+
+Error: missing isbn
+Record: ,Steven D. Stark,4.95,006000892X,MRB,2007
+
+Error: missing isbn
+Record: ,Joel Whitburn,49.95,089820092X,MRB,2007
+
+Error: missing isbn
+Record: ,Rich Cohen,5.95,039305280X,MRB,2007
+
+Error: missing isbn
+Record: ,Hank Bordowitz,14.95,155652661X,MRB,2007
+
+Error: missing isbn
+Record: ,,19.95,142343076X,MRB,2007
+
+Error: invalid genre
+Record: ,Clay Eals,23.95,1550227327,ABC,2007
+
+Error: missing isbn
+Record: ,Sharony Andrews Green,14.95,087930698X,MRB,2007
+
+Error: missing isbn
+Record: ,Dave Henderson & Howard Johnson,5.95,190279902X,MRB,2007
+
+Error: missing isbn
+Record: ,Leslie Gourse,4.95,082307904X,MRB,2007
+
+Error: missing isbn
+Record: ,Stephen Davis,4.95,159240099X,MRB,2007
+
+Error: missing isbn
+Record: ,Michael Dregni,7.95,019516752X,MRB,2007
+
+Error: missing isbn
+Record: ,Jerry Naylor & Steve Halliday,26.95,142342042X,MRB,2007
+
+Error: missing isbn
+Record: ,Robert Kimball & William Bolcom,5.95,081541045X,MRB,2007
+
+Error: invalid genre
+Record: ,Storm Thorgeson & Peter Curzon,19.95,1846096677,DEF,2007
+
+Error: missing isbn
+Record: ,Patrick Humphries,19.95,184449585X,MRB,2007
+
+Error: missing isbn
+Record: ,Domenic Priore,11.95,,MRB,2007
+
+Error: missing isbn
+Record: ,Kirstie Alley,5.95,159486232X,MTV,2007
+
+Error: missing isbn
+Record: ,Gary D. Rhodes & Richard Sheffield,24.95,,MTV,2007
+
+Error: missing isbn
+Record: ,,7.95,,MTV,2007
+
+Error: missing isbn
+Record: ,Michael H. Price,29.95,188766470X,MTV,2007
+
+Error: missing isbn
+Record: ,Garner Simmons,13.95,087910273X,MTV,2007
+
+Error: missing isbn
+Record: ,John Kenneth Muir,16.95,,MTV,2007
+
+Error: missing isbn
+Record: ,Simon Louvish,7.95,057121276X,MTV,2007
+
+Error: missing isbn
+Record: ,Danny Biederman,7.95,081184224X,MTV,2007
+
+Error: missing isbn
+Record: ,Peter Conrad,5.95,057121164X,MTV,2007
+
+Error: missing isbn
+Record: ,A.J. Baime & A. J. Baime,4.95,045120980X,NEB,2007
+
+Error: missing isbn
+Record: ,Erica Jong & Annie Sprinkle,24.95,157687317X,NEB,2007
+
+Error: missing isbn
+Record: ,Philip Rapp,12.95,,NEB,2007
+
+Error: missing isbn
+Record: ,Martin Grams Jr.,17.95,097033107X,OTR,2007
+
+[0m
+[31msyntax error in filebooks2008.csv.txt
+===========================
+Error: invalid genre
+Record: ,Joel Whitburn,37.95,089820156X,RFG,2008
+
+Error: missing isbn
+Record: ,David Evans,5.95,039953072X,MRB,2008
+
+Error: missing isbn
+Record: ,Vincent Falcone & Bob Popyk,19.95,063409498X,MRB,2008
+
+Error: missing isbn
+Record: ,Doug Hinman,19.95,087930765X,MRB,2008
+
+Error: invalid genre
+Record: ,Brian Chidester & Dominic Priore,29.95,1595800352,QAS,2008
+
+Error: missing isbn
+Record: ,Chris Bentley,19.95,190528747X,MTV,2008
+
+Error: missing isbn
+Record: ,Steve Hayes,16.95,159393307X,MTV,2008
+
+Error: missing isbn
+Record: ,Ted Sennett & Eila Mell,24.95,159393145X,MTV,2008
+
+Error: missing isbn
+Record: ,,7,,MTV,2008
+
+Error: missing isbn
+Record: ,,7,,MTV,2008
+
+Error: missing isbn
+Record: ,,7,,MTV,2008
+
+Error: missing isbn
+Record: ,Kathleen Tracy,12.95,193210027X,MTV,2008
+
+[0m
+[31msyntax error in filebooks2009.csv.txt
+===========================
+Error: invalid genre
+Record: ,David Okum,16.95,1600610293,CBC,2009
+
+Error: missing isbn
+Record: ,David Okum,16.95,158180606X,CCB,2009
+
+Error: missing isbn
+Record: ,Gary Lovisi,16.95,089689634X,HCB,2009
+
+Error: invalid genre
+Record: ,David Doyle,27.95,0896895157,BHC,2009
+
+Error: invalid genre
+Record: ,Joel Whitburn,49.95,0898201772,WWF,2009
+
+Error: missing isbn
+Record: ,Joel Whitburn,39.95,,MRB,2009
+
+Error: missing isbn
+Record: ,Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Error: missing isbn
+Record: ,Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Error: missing isbn
+Record: ,Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Error: missing isbn
+Record: ,Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Error: missing isbn
+Record: ,Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Error: missing isbn
+Record: ,Marc Bristol & Gaby Maag-Bristol,4.5,,MRB,2009
+
+Error: missing isbn
+Record: ,The Doors & Ben Fong-Torres,14.95,140130303X,MRB,2009
+
+Error: missing isbn
+Record: ,Greil Marcus,5.95,158648382X,MRB,2009
+
+Error: missing isbn
+Record: ,James L. Dickerson,4.95,082567316X,MRB,2009
+
+Error: invalid genre
+Record: ,Tim Neely,16.99,1440203776,XYZ,2009
+
+Error: missing isbn
+Record: ,Mickey Hart & K.M. Kostyal,6.95,079224107X,MRB,2009
+
+Error: missing isbn
+Record: ,Liz Harris & Lou Holly,4.95,,MRB,2009
+
+Error: missing isbn
+Record: ,Liz Harris & Lou Holly,4.95,,MRB,2009
+
+Error: missing isbn
+Record: ,Liz Harris & Lou Holly,4.95,,MRB,2009
+
+Error: missing isbn
+Record: ,Liz Harris & Lou Holly,4.95,,MRB,2009
+
+Error: missing isbn
+Record: ,Liz Harris & Lou Holly,4.95,,MRB,2009
+
+Error: missing isbn
+Record: ,Maurice J. Summerfield,29.95,7.78187E+12,MRB,2009
+
+Error: missing isbn
+Record: ,Bruce Morrow & Rich Maloof,39.95,,MRB,2009
+
+Error: missing isbn
+Record: ,Cliff Richard,24.95,075531588X,MRB,2009
+
+Error: missing isbn
+Record: ,Orlando Rios,3.99,,MRB,2009
+
+Error: missing isbn
+Record: ,Orlando Rios,3.69,,MRB,2009
+
+Error: missing isbn
+Record: ,Charles McKeown & Terry Gilliam,6.95,155783041X,MTV,2009
+
+Error: missing isbn
+Record: ,Cinema Retro,9.95,,MTV,2009
+
+Error: missing isbn
+Record: ,,9.95,,MTV,2009
+
+Error: missing isbn
+Record: ,,9.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Cinema Retro,9.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Deb Ohlin & Cheri deFonteny & Lynn Walker,27.95,159393324X,MTV,2009
+
+Error: missing isbn
+Record: ,Richard Roat,19.95,159393467X,MTV,2009
+
+Error: missing isbn
+Record: ,Nathan Hanneman,5.99,,MTV,2009
+
+Error: missing isbn
+Record: ,Nathan Hanneman,5.99,,MTV,2009
+
+Error: missing isbn
+Record: ,Richard Klemensen,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Richard Klemensen,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Richard Klemensen,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Richard Klemensen,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Gary Svehla & Susan Svehla,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Ron Adams,7,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,6.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,6.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,6.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,6.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,6.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Denis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Denis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,5.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,6.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,6.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,6.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,6.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,6.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,6.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Monsters From The Vault,6.98,,MTV,2009
+
+Error: missing isbn
+Record: ,Monsters From The Vault,6.98,,MTV,2009
+
+Error: missing isbn
+Record: ,Monsters From The Vault,6.98,,MTV,2009
+
+Error: missing isbn
+Record: ,Monsters From The Vault,6.98,,MTV,2009
+
+Error: missing isbn
+Record: ,Monsters From The Vault,7.98,,MTV,2009
+
+Error: missing isbn
+Record: ,Monsters From The Vault,7.98,,MTV,2009
+
+Error: missing isbn
+Record: ,Monsters From The Vault,8.98,,MTV,2009
+
+Error: missing isbn
+Record: ,,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Denis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Denis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Denis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Denis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Denis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Denis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Denis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Denis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Dennis Druktenis,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Darryl Mayeski,5.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Darryl Mayeski,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Darryl Mayeski,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Darryl Mayeski,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Darryl Mayeski,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Darryl Mayeski,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Darryl Mayeski,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,Darryl Mayeski,7.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+Error: missing isbn
+Record: ,The Phantom Of The Movies,4.95,,MTV,2009
+
+[0m
+[31msyntax error in filebooks2010.csv.txt
+===========================
+Error: too few fields
+Record: ,Gina Misiroglu & Michael Eury,24.95,1578591783,CCB
+
+Error: too few fields
+Record: ,Jeff Lenburg,15.95,155783671X,CCB
+
+Error: too few fields
+Record: ,Michael Friel & Melody Mcdaniel & Cindy Palmano & Rankin,1,0825615674,MRB
+
+Error: too few fields
+Record: ,Chet Atkins & Michael Cochran,19.95,0634055658,MRB
+
+Error: too few fields
+Record: ,Serene Dominic,11.95,0825672805,MRB
+
+Error: too few fields
+Record: ,Caroline Sullivan,2.95,1582340552,MRB
+
+Error: too few fields
+Record: ,John Rocco,1,0028653343,MRB
+
+Error: too few fields
+Record: ,Barry Miles,8.95,0711991960,MRB
+
+Error: too few fields
+Record: ,By Keith Badman,3.95,0711988021,MRB
+
+Error: too few fields
+Record: ,,39.95,0898201608,MRB
+
+Error: too few fields
+Record: ,Robert V. Conte & C.J. Henderson,1.99,1890313998,MRB
+
+Error: too few fields
+Record: ,Tony Russell,5.95,0028648862,MRB
+
+Error: too few fields
+Record: ,Paul Davis,4.95,,MRB
+
+Error: too few fields
+Record: ,Bill Harry,6.95,,MRB
+
+Error: too few fields
+Record: ,Ruth Brown & Andrew Yule,9.95,0306808889,MRB
+
+Error: too few fields
+Record: ,Mark Humphrey & Harris Lewine,3.95,0806514612,MRB
+
+Error: too few fields
+Record: ,Richard M. Sudhalter,5.95,0195168984,MRB
+
+Error: too few fields
+Record: ,Johnny Cash,19.95,159554237X,MRB
+
+Error: too few fields
+Record: ,Brian Mansfield,3.95,1401601375,MRB
+
+Error: too few fields
+Record: ,Stephen Miller,15.95,0711996261,MRB
+
+Error: too few fields
+Record: ,Cher as told to Jeff Coplon,4.95,0316848441,MRB
+
+Error: too few fields
+Record: ,Ben Joseph,1.99,1550822454,MRB
+
+Error: too few fields
+Record: ,John Glatt,5.95,0306809222,MRB
+
+Error: too few fields
+Record: ,Natalie Cole & Digby Diehl,4.95,0446527467,MRB
+
+Error: too few fields
+Record: ,Dr. Anthony J. Gribin & Dr. Matthew M. Schiff,24.95,0977379841,MRB
+
+Error: too few fields
+Record: ,Michael Heatley,1,1578990203,MRB
+
+Error: too few fields
+Record: ,Steve Karmen,16.95,0634048767,MRB
+
+Error: too few fields
+Record: ,Ray Davies,5.95,0879516119,MRB
+
+Error: too few fields
+Record: ,Dave Thompson,12.95,,MRB
+
+Error: too few fields
+Record: ,Barry Grills,1.49,155082189X,MRB
+
+Error: too few fields
+Record: ,Paul Williams,1.99,0711935556,MRB
+
+Error: too few fields
+Record: ,Paul Williams,15.98,1844492818,MRB
+
+Error: too few fields
+Record: ,John A. Jackson,6.95,0977379809,MRB
+
+Error: too few fields
+Record: ,Eric James Abbey & Michelangelo Capua,28.95,0786425644,MRB
+
+Error: too few fields
+Record: ,Alyn Shipton,6.95,0195144104,MRB
+
+Error: too few fields
+Record: ,John Clemente,7.95,0873418166,MRB
+
+Error: too few fields
+Record: ,Rock Scully & David Dalton,3.95,0316777129,MRB
+
+Error: too few fields
+Record: ,,1.95,1560251255,MRB
+
+Error: too few fields
+Record: ,Bob Cianci,16.95,0634099256,MRB
+
+Error: too few fields
+Record: ,Lionel Hampton & James Haskins,4.99,1567430198,MRB
+
+Error: too few fields
+Record: ,Illustrated By Bill Sienkiewicz & Created & Produed By Martin I. Green,8.95,0670867896,MRB
+
+Error: too few fields
+Record: ,Michael McCall & Janet Williams,1.99,1561737291,MRB
+
+Error: too few fields
+Record: ,Jim Brown,1.99,1550822438,MRB
+
+Error: too few fields
+Record: ,Rikky Rooksby,2.95,0711998833,MRB
+
+Error: too few fields
+Record: ,Mick St Michael,5.95,0711977348,MRB
+
+Error: too few fields
+Record: ,Doug Hall,1.99,1880522160,MRB
+
+Error: too few fields
+Record: ,Patricia Butler,3.95,0711991979,MRB
+
+Error: too few fields
+Record: ,Ian Mccann & Harry Hawke,2.95,0711998841,MRB
+
+Error: too few fields
+Record: ,Jorie B. Gracen,12.95,0823083691,MRB
+
+Error: too few fields
+Record: ,Tony Barrow & Robin Bextor,19.95,0634069195,MRB
+
+Error: too few fields
+Record: ,Marty Eck,13.95,0930625188,MRB
+
+Error: too few fields
+Record: ,Didieer C. Deutsh,4.95,,MRB
+
+Error: too few fields
+Record: ,Todd Brabec & Jeffrey Brabec,2.5,0825672821,MRB
+
+Error: too few fields
+Record: ,James Hector,2.95,0711998876,MRB
+
+Error: too few fields
+Record: ,Guitar World Magazine,10.95,079359006X,MRB
+
+Error: too few fields
+Record: ,,1,,MRB
+
+Error: too few fields
+Record: ,Guitar World Magazine,9.95,0634032860,MRB
+
+Error: too few fields
+Record: ,Alvin Gibbs,4.95,1899598170,MRB
+
+Error: too few fields
+Record: ,Eric Braun,6.99,0879518146,MRB
+
+Error: too few fields
+Record: ,Sean O'Neal,2.95,076151127X,MRB
+
+Error: too few fields
+Record: ,Rex & Elisabeth Mansfield & Marshall & Zoe Terrill,5.95,1550225553,MRB
+
+Error: too few fields
+Record: ,,1.99,0765191261,MRB
+
+Error: too few fields
+Record: ,,2.95,0786880546,MRB
+
+Error: too few fields
+Record: ,William Stone,1,188689454X,MRB
+
+Error: too few fields
+Record: ,Scott Freeman,5.95,0312302975,MRB
+
+Error: too few fields
+Record: ,Mel Torme,10.5,1888408022,MRB
+
+Error: too few fields
+Record: ,,2.99,0953747913,MRB
+
+Error: too few fields
+Record: ,Tina Sinatra (With Jeff Coplon),5.95,0684870762,MRB
+
+Error: too few fields
+Record: ,Charles Granata,13.95,1556523564,MRB
+
+Error: too few fields
+Record: ,David Nathan,11.5,0823084302,MRB
+
+Error: too few fields
+Record: ,Richard Williams,4.95,0711998647,MRB
+
+Error: too few fields
+Record: ,John W. Duffy,8.95,1844494039,MRB
+
+Error: too few fields
+Record: ,Martin Popoff,14.95,,MRB
+
+Error: too few fields
+Record: ,Jim Derogatis,12.95,0634055488,MRB
+
+Error: too few fields
+Record: ,Bill Graham & Caroline Van Der Oosten De Boer,2.95,0711998868,MRB
+
+Error: too few fields
+Record: ,Guitar World Magazine,10.5,0793580803,MRB
+
+Error: too few fields
+Record: ,Chris Welch,3.95,0711995095,MRB
+
+Error: too few fields
+Record: ,Patricia Bosworth,4.95,,MTV
+
+Error: too few fields
+Record: ,Michelangelo Capua,30.95,0786424613,MTV
+
+Error: too few fields
+Record: ,Nick Johnstone,2.95,071197652X,MTV
+
+Error: too few fields
+Record: ,,7,,MTV
+
+Error: too few fields
+Record: ,,7,,MTV
+
+Error: too few fields
+Record: ,,7,,MTV
+
+Error: too few fields
+Record: ,,7,,MTV
+
+Error: too few fields
+Record: ,,7,,MTV
+
+Error: too few fields
+Record: ,Douglas Brode,30.95,0786425261,MTV
+
+Error: too few fields
+Record: ,John Kenneth Muir,14.95,1557836078,MTV
+
+Error: too few fields
+Record: ,Jim Haskins & N.R. Mitgang,7.95,,MTV
+
+Error: too few fields
+Record: ,Daniel Wallace,29.95,0811853446,MTV
+
+Error: too few fields
+Record: ,Jeff Dawson,10.95,1557832277,MTV
+
+Error: too few fields
+Record: ,Johnny Weissmuller Jr. & William Reed & W. Craig Reed,19.95,1550225227,MTV
+
+Error: too few fields
+Record: ,Jay Scarfone & William Stillman,13.95,1557836248,MTV
+
+Error: too few fields
+Record: ,Alan Young,12.95,1593930534,MTV
+
+Error: too few fields
+Record: ,Gary Greenberg,4.95,031228263X,NEB
+
+Error: too few fields
+Record: ,Dr. John Craft,5.95,0760301441,SSM
+
+[0m
