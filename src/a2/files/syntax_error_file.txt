@@ -1,16 +1,16 @@
-[31msyntax error in filebooks1995.csv.txt
+syntax error in filebooks1995.csv.txt
 ===========================
 Error: missing isbn
 Record: ,Gary Giblin,19.95,188766467X,MTV,1905
 
-[0m
-[31msyntax error in filebooks2000.csv.txt
+
+syntax error in filebooks2000.csv.txt
 ===========================
 Error: invalid genre
 Record: ,Peter Dendle,30.95,9780786408597,,2000
 
-[0m
-[31msyntax error in filebooks2001.csv.txt
+
+syntax error in filebooks2001.csv.txt
 ===========================
 Error: invalid genre
 Record: ,Jim Harmon,35.95,9780786408504,MBR,2001
@@ -18,8 +18,8 @@ Record: ,Jim Harmon,35.95,9780786408504,MBR,2001
 Error: missing isbn
 Record: ,Barbara Victor,4.95,006019930X,MRB,2001
 
-[0m
-[31msyntax error in filebooks2002.csv.txt
+
+syntax error in filebooks2002.csv.txt
 ===========================
 Error: invalid genre
 Record: ,Edward Amos,35.95,9780786412709,MBR,2002
@@ -27,14 +27,14 @@ Record: ,Edward Amos,35.95,9780786412709,MBR,2002
 Error: missing isbn
 Record: ,Kim R. Holston,29.95,8.78079E+12,MTV,2002
 
-[0m
-[31msyntax error in filebooks2003.csv.txt
+
+syntax error in filebooks2003.csv.txt
 ===========================
 Error: invalid genre
 Record: ,John Louis DiGaetani,39.95,9780786414772,BRM,2003
 
-[0m
-[31msyntax error in filebooks2004.csv.txt
+
+syntax error in filebooks2004.csv.txt
 ===========================
 Error: invalid genre
 Record: ,John T. Soister,49.5,9780786417452,CTV,2004
@@ -42,8 +42,8 @@ Record: ,John T. Soister,49.5,9780786417452,CTV,2004
 Error: invalid genre
 Record: ,Stephen A. Kallis Jr.,26.96,9780786421763,BRM,2004
 
-[0m
-[31msyntax error in filebooks2005.csv.txt
+
+syntax error in filebooks2005.csv.txt
 ===========================
 Error: missing isbn
 Record: ,John Jackson Miller & Maggie Thompson & Peter Bickford & Brent Frankenhoff,24.95,087349993X,CCB,2005
@@ -294,8 +294,8 @@ Record: ,David Newhardt,4.95,076031389X,TPA,2005
 Error: missing isbn
 Record: ,Tony Swan,14.95,188805462X,TPA,2005
 
-[0m
-[31msyntax error in filebooks2006.csv.txt
+
+syntax error in filebooks2006.csv.txt
 ===========================
 Error: missing isbn
 Record: ,Forrest J. Ackerman & Brad Linaweaver,29.95,188805493X,CCB,2006
@@ -363,8 +363,8 @@ Record: ,Allan T. Duffin & Paul Matheis,-24.95,159393033X,MTV,2206
 Error: missing isbn
 Record: ,Andrew Montgomery,14.95,159223061X,TPA,2006
 
-[0m
-[31msyntax error in filebooks2007.csv.txt
+
+syntax error in filebooks2007.csv.txt
 ===========================
 Error: missing isbn
 Record: ,Dean Young & Melena Ryzik,24.95,140160322X,CCB,2007
@@ -462,8 +462,8 @@ Record: ,Philip Rapp,12.95,,NEB,2007
 Error: missing isbn
 Record: ,Martin Grams Jr.,17.95,097033107X,OTR,2007
 
-[0m
-[31msyntax error in filebooks2008.csv.txt
+
+syntax error in filebooks2008.csv.txt
 ===========================
 Error: invalid genre
 Record: ,Joel Whitburn,37.95,089820156X,RFG,2008
@@ -501,8 +501,8 @@ Record: ,,7,,MTV,2008
 Error: missing isbn
 Record: ,Kathleen Tracy,12.95,193210027X,MTV,2008
 
-[0m
-[31msyntax error in filebooks2009.csv.txt
+
+syntax error in filebooks2009.csv.txt
 ===========================
 Error: invalid genre
 Record: ,David Okum,16.95,1600610293,CBC,2009
@@ -816,8 +816,8 @@ Record: ,The Phantom Of The Movies,4.95,,MTV,2009
 Error: missing isbn
 Record: ,The Phantom Of The Movies,4.95,,MTV,2009
 
-[0m
-[31msyntax error in filebooks2010.csv.txt
+
+syntax error in filebooks2010.csv.txt
 ===========================
 Error: too few fields
 Record: ,Gina Misiroglu & Michael Eury,24.95,1578591783,CCB
@@ -1104,4 +1104,4 @@ Record: ,Gary Greenberg,4.95,031228263X,NEB
 Error: too few fields
 Record: ,Dr. John Craft,5.95,0760301441,SSM
 
-[0m
+
