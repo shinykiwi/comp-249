@@ -11,9 +11,9 @@ public class Main {
     public static void main(String[] args) {
         //do_part1();
 
-        //do_part2();
+        do_part2();
 
-        do_part3();
+        //do_part3();
     }
 
     // validating syntax partition book records based on genre

@@ -3,6 +3,8 @@
 
 package a3;
 
+import java.util.Scanner;
+
 public class CellPhone {
 
     long serialNum;
@@ -10,6 +12,14 @@ public class CellPhone {
     int year;
     double price;
     static int counter = 0;
+
+    public CellPhone(CellPhone cellPhone) {
+        this.brand = cellPhone.getBrand();
+        this.year = cellPhone.getYear();
+        this.price = cellPhone.getPrice();
+        serialNum = counter;
+        counter++;
+    }
 
     public void setBrand(String brand) {
         this.brand = brand;
@@ -43,12 +53,19 @@ public class CellPhone {
         return brand;
     }
 
-    public CellPhone(long serialNum, int year, double price, String brand){
+    public CellPhone(int year, double price, String brand){
+        this.serialNum = counter;
+        this.year = year;
+        this.price = price;
+        this.brand = brand;
+        counter++;
+    }
+
+    public CellPhone(long serialNum, String brand, double price, int year){
         this.serialNum = serialNum;
         this.year = year;
         this.price = price;
         this.brand = brand;
-
     }
 
     public CellPhone(CellPhone cp, long serialNum){
@@ -58,14 +75,14 @@ public class CellPhone {
         this.brand = cp.getBrand();
     }
 
-    // TODO: fill in this part
-    public Object clone(){
-
-        return null;
+    public CellPhone clone(){
+        Scanner s = new Scanner(System.in);
+        System.out.println("\nPlease enter a serial number: ");
+        return new CellPhone(this, s.nextLong());
     }
 
     public String toString(){
-        return "This is a CellPhone, brand is " + brand + ", year is "+ year+", price is "+ price+ ", and serial number is "+ serialNum + ".";
+        return "["+serialNum + ": "+ brand + " " + price + "$ "+year+"]";
     }
 
     public boolean equals(CellPhone cp) {
